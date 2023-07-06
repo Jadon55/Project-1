@@ -13,10 +13,10 @@ For our group project we decided to compare 3 publicly available data sets to tr
 - [Death Rate vs Income](https://github.com/Jadon55/Project-1/blob/main/Graphs/Death_Rate_vs_Income.png):
   - p-value: 6.649608696312204e-10
   - r-value: -0.4475943074526824
-- Death Rate vs Population Density
+- [Death Rate vs Population Density](https://github.com/Jadon55/Project-1/blob/main/Graphs/Death_Rate_vs_Population.png)
   - p-value: 0.0005441086427745205
   - r-value: 0.2602517883570094
-- Death Rate vs Percent Vaccinated
+- [Death Rate vs Percent Vaccinated](https://github.com/Jadon55/Project-1/blob/main/Graphs/Death_Rate_vs_Vaccinated.png)
   - p-value: 0.011958207603335361
   - r-value: -0.19071376391546443
 
