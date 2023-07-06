@@ -10,7 +10,7 @@ For our group project we decided to compare 3 publicly available data sets to tr
 - [Vaccination Rates by Neighborhood Dataset](https://catalog.data.gov/dataset/vaccination-rates-by-neighborhood): Vaccination Rates data is from data.gov, specifically from the City of Los Angeles's page on the site. The dataset shows the covid cases, deaths, and vaccination rate of cities and communities in Los Angeles.
 
 ### Statistical Findings
-- Death Rate vs Income:
+- [Death Rate vs Income](https://github.com/Jadon55/Project-1/blob/main/Graphs/Death_Rate_vs_Income.png):
   - p-value: 6.649608696312204e-10
   - r-value: -0.4475943074526824
 - Death Rate vs Population Density
