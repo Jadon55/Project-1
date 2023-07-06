@@ -13,11 +13,10 @@ For our group project we decided to compare 3 publicly available data sets to tr
 - Death Rate vs Income:
   - p-value: 6.649608696312204e-10
   - r-value: -0.4475943074526824
+- Death Rate vs Population Density
+  - p-value: 0.0005441086427745205
+  - r-value: 0.2602517883570094
+- Death Rate vs Percent Vaccinated
+  - p-value: 0.011958207603335361
+  - r-value: -0.19071376391546443
 
-Death Rate vs Population Density
-- p-value: 0.0005441086427745205
-- r-value: 0.2602517883570094
-
-Death Rate vs Percent Vaccinated
-- p-value: 0.011958207603335361
-- r-value: -0.19071376391546443
