@@ -9,7 +9,7 @@ For our group project we decided to compare 3 publicly available data sets to tr
 - [Population Density Dataset](https://maps.latimes.com/neighborhoods/population/density/neighborhood/list/): Population Density data is also from an article by the Los Angeles Times. The article ranks 265 neighborhoods in LA from  the highest to lowest population density in people per sq mile.
 - [Vaccination Rates by Neighborhood Dataset](https://catalog.data.gov/dataset/vaccination-rates-by-neighborhood): Vaccination Rates data is from data.gov, specifically from the City of Los Angeles's page on the site. The dataset shows the covid cases, deaths, and vaccination rate of cities and communities in Los Angeles.
 
-### Statistical Findings
+### Interesting Statistical Findings
 - [Death Rate vs Income](https://github.com/Jadon55/Project-1/blob/main/Graphs/Death_Rate_vs_Income.png):
   - p-value: 6.649608696312204e-10
   - r-value: -0.4475943074526824
